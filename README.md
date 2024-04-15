@@ -4,4 +4,5 @@ The code should let you pick a starter and then go on a small adventure to catch
 if you spot any errors, don't hesitate to let me know, this is my first full project in python, done completely alone from top to bottom.
 
 ## (for personal tracking.)
- writing time 5hs
+ writing time: 5hs
+ lines: 130
